@@ -198,6 +198,28 @@ iframe {
   grid-template-columns: auto auto;
   padding: 10px;
   align-items: center;
+  position: absolute;
+  padding-left: 150px;
+}
+
+.card-container{
+  width: 100%;
+  height: 100%;
+  border: 2px solid #e41f1f10;
+  position: absolute;
+  background: #fafafa10;
+  align-self: center;
+  backdrop-filter: blur(0.4rem);
+  text-align: center;
+  padding-top: 10rem;
+  font-family: 'Portico', sans-serif;
+  color: rgb(0, 0, 0);
+  font-size: 36px;
+}
+
+.foto-grid {
+  padding: 20px;
+  text-align: center;
 }
 
 .items-grid {
