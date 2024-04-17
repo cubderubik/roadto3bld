@@ -1,0 +1,16 @@
+\xpginauxfiletrue 
+\selectlanguage *{catalan}
+\contentsline {section}{\numberline {1}Coses a saber abans de començar}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Notació dels Moviments}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Interpretar el concepte del cub}{5}{subsection.1.2}%
+\contentsline {section}{\numberline {2}El Concepte de 3BLD}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Fases de la Resolució}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Memorització}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Execució}{7}{subsection.2.3}%
+\contentsline {section}{\numberline {3}El mètode principiants "Old Pochmann"}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Arestes}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Cantonades}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Casos Especials}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Exemple de Memorització per a aquest mètode}{10}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Mètode Intermig (M2/Orozco)}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Mètode d'execució per les Cantonades}{12}{subsection.4.1}%

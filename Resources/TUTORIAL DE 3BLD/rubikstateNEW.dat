@@ -1,0 +1,55 @@
+\typeout{}%
+\typeout{...PERL process..................................}%
+\typeout{...script = rubikrotation.pl v5.0   (25 February 2018)}%
+\typeout{...reading the current cube state (from File: rubikstate.dat)}%
+\typeout{...}%
+\typeout{...command = cubesize,three}%
+\typeout{...cube = THREEcube}%
+\typeout{...}%
+\typeout{......up,W,W,W,W,W,W,W,W,W}%
+\typeout{....down,Y,Y,Y,Y,Y,Y,Y,Y,Y}%
+\typeout{....left,B,B,B,B,B,B,B,B,B}%
+\typeout{...right,G,G,G,G,G,G,G,G,G}%
+\typeout{...front,O,O,O,O,O,O,O,O,O}%
+\typeout{....back,R,R,R,R,R,R,R,R,R}%
+\typeout{...}%
+\typeout{...rotation keyword}%
+\typeout{...checking state of cube}%
+\typeout{...cubiesum = 54 (Red=9, Or=9, Ye=9, Gr=9, Bl=9, Wh=9, X=0)}%
+\typeout{...}%
+\typeout{...command = rotation,Y,U,Rp,Dp,R,Up,Rp,D,R,Up,R,Dp,Rp,U,R,D,Rp}%
+\typeout{...dataline = rotation,Y,U,Rp,Dp,R,Up,Rp,D,R,Up,R,Dp,Rp,U,R,D,Rp}%
+\typeout{...rotation Y, OK (= y = U + Su + Dp)}%
+\typeout{...rotation U,   OK}%
+\typeout{...rotation Rp,  OK (= R3)}%
+\typeout{...rotation Dp,  OK }%
+\typeout{...rotation R,   OK}%
+\typeout{...rotation Up,  OK (= U3)}%
+\typeout{...rotation Rp,  OK (= R3)}%
+\typeout{...rotation D,   OK (= Dp3)}%
+\typeout{...rotation R,   OK}%
+\typeout{...rotation Up,  OK (= U3)}%
+\typeout{...rotation R,   OK}%
+\typeout{...rotation Dp,  OK }%
+\typeout{...rotation Rp,  OK (= R3)}%
+\typeout{...rotation U,   OK}%
+\typeout{...rotation R,   OK}%
+\typeout{...rotation D,   OK (= Dp3)}%
+\typeout{...rotation Rp,  OK (= R3)}%
+%% ...output datafile=rubikstateNEW.dat
+%% ...PERL script=rubikrotation.pl version v5.0   (25 February 2018)
+\typeout{...writing new cube state to file rubikstateNEW.dat}%
+\RubikFaceUp{W}{W}{W}{W}{W}{W}{W}{W}{O}%
+\RubikFaceDown{Y}{Y}{R}{Y}{Y}{Y}{Y}{Y}{Y}%
+\RubikFaceLeft{O}{O}{O}{O}{O}{O}{R}{O}{O}%
+\RubikFaceRight{Y}{R}{R}{R}{R}{R}{W}{R}{R}%
+\RubikFaceFront{G}{G}{B}{G}{G}{G}{G}{G}{G}%
+\RubikFaceBack{B}{B}{B}{B}{B}{B}{B}{B}{G}%
+\renewcommand\SequenceName{}%
+\typeout{...SequenceName = }%
+\renewcommand\SequenceInfo{}%
+\typeout{...SequenceInfo = }%
+\renewcommand\SequenceShort{Y,U,Rp,Dp,R,Up,Rp,D,R,Up,R,Dp,Rp,U,R,D,Rp}%
+\typeout{...SequenceShort = Y,U,Rp,Dp,R,Up,Rp,D,R,Up,R,Dp,Rp,U,R,D,Rp}%
+\renewcommand\SequenceLong{Y,U,Rp,Dp,R,Up,Rp,D,R,Up,R,Dp,Rp,U,R,D,Rp}%
+\typeout{...SequenceLong = Y,U,Rp,Dp,R,Up,Rp,D,R,Up,R,Dp,Rp,U,R,D,Rp}%
